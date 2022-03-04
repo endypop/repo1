@@ -1,7 +1,9 @@
-# repo1
+﻿# repo1
 
 
 To jest przykładowy projekt
--lista
--lista
--lista
+- lista
+- lista
+- lista
+
+To jes nowa linia lokalnie.
